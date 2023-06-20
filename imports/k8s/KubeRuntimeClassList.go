@@ -1,12 +1,12 @@
 package k8s
 
 import (
-	_init_ "example.com/perftest/imports/k8s/jsii"
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
+	_init_ "github.com/iuriikogan/perftest/imports/k8s/jsii"
 
-	"example.com/perftest/imports/k8s/internal"
 	"github.com/aws/constructs-go/constructs/v10"
 	"github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2"
+	"github.com/iuriikogan/perftest/imports/k8s/internal"
 )
 
 // RuntimeClassList is a list of RuntimeClass objects.

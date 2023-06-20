@@ -1,12 +1,12 @@
 package k8s
 
 import (
-	_init_ "example.com/perftest/imports/k8s/jsii"
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
+	_init_ "github.com/iuriikogan/perftest/imports/k8s/jsii"
 
-	"example.com/perftest/imports/k8s/internal"
 	"github.com/aws/constructs-go/constructs/v10"
 	"github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2"
+	"github.com/iuriikogan/perftest/imports/k8s/internal"
 )
 
 // ServiceAccount binds together: * a name, understood by users, and perhaps by peripheral systems, for an identity * a principal that can be authenticated and authorized * a set of secrets.

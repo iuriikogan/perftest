@@ -4,7 +4,7 @@ import (
 	"github.com/aws/constructs-go/constructs/v10"
 	"github.com/aws/jsii-runtime-go"
 	"github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2"
-	"github.com/iuriikogan/perftest/v2/imports/k8s"
+	"github.com/iuriikogan/perftest/imports/k8s"
 )
 
 type PerfTestChartProps struct {

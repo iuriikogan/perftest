@@ -1,8 +1,8 @@
 package k8s
 
 import (
-	_init_ "example.com/perftest/imports/k8s/jsii"
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
+	_init_ "github.com/iuriikogan/perftest/imports/k8s/jsii"
 )
 
 type IntOrString interface {

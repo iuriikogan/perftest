@@ -1,4 +1,4 @@
-module example.com/perftest
+module github.com/iuriikogan/perftest
 
 go 1.18
 
